@@ -10,10 +10,11 @@ body{
 }
 /* nav styling */
 nav img{
-    width: 15%;
+    width: 10%;
+    padding: 20px;
 }
 .first{
-    background: url(images/background.jpg);
+    background: url(images/new\ back.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
