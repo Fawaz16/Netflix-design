@@ -103,8 +103,10 @@ margin-left: 4px;
 
 @media(max-width:765px){
     nav img{
-        width: 35%;
+        width: 25%;
+        padding: 20px;
     }
+    
     .minidiv{
         position: absolute;
         background-color: rgba(58, 55, 55,0.7);
@@ -183,6 +185,54 @@ margin-left: 4px;
         flex-wrap: wrap;
         justify-content: space-around;
     }
+
+
+    @keyframes change{
+    0%{
+      background: url(images/r.jpeg);
+      background-size: cover;
+      background-position: center;
+    background-repeat: no-repeat;
+    transition: 0.4s ease-in-out;
+    
+  
+    }
+    20%{
+      background: url(images/q.jpeg);
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      transition: 0.4s ease-in-out;
+    }
+    40%{
+      background: url(images/boxshot.jpg);
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      transition: 0.4s ease-in-out;
+    }
+    60%{
+      background: url(images/pressing.jpg);
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      transition: 0.4s ease-in-out;
+    }
+    80%{
+      background: url(images/background.jpg);
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      transition: 0.4s ease-in-out;
+    }
+    100%{
+      background: url(images/netflixbackground.jpg);
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      transition: 0.4s ease-in-out;
+    }
+  } 
    
 }
 @media(min-width:765px){
