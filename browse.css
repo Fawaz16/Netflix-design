@@ -17,7 +17,12 @@ a{
 nav img{
     width: 15%;
 }
-
+nav h2{
+  color: red;
+  padding: 20px;
+  font-size: 45px;
+  font-family: 'Bebas Neue', cursive;
+}
 .hamburger div{
     margin: 4px;
     height: 2px;
