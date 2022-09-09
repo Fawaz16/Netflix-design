@@ -121,8 +121,7 @@ cursor: pointer;
     }
     .first{
         height: 80vh;
-        transition: 0.4s ease-in-out;
-        animation: change 15s  infinite ease-in-out ;
+        animation: change 25s  infinite ease-in-out;
     }
     nav{
         background-color: rgba(37, 34, 34,0.5);
@@ -383,28 +382,28 @@ cursor: pointer;
       
         }
         20%{
-          background: url(images/q.jpeg);
+          background: url(images/Screenshot_20200903-225930.png);
           background-size: cover;
           background-position: center;
           background-repeat: no-repeat;
           transition: 0.6s ease-in-out;
         }
         40%{
-          background: url(images/pressing.jpg);
+          background: url(images/wallpaper8.jpg);
           background-size: cover;
           background-position: center;
           background-repeat: no-repeat;
           transition: 0.6s ease-in-out;
         }
         60%{
-          background: url(images/pressing.jpg);
+          background: url(images/wallpaper2.jpg);
           background-size: cover;
           background-position: center;
           background-repeat: no-repeat;
           transition: 0.6s ease-in-out;
         }
         80%{
-          background: url(images/background.jpg);
+          background: url(images/FB_IMG_16431787273330531.jpg);
           background-size: cover;
           background-position: center;
           background-repeat: no-repeat;
