@@ -121,7 +121,7 @@ cursor: pointer;
     }
     .first{
         height: 80vh;
-        animation: change 25s  infinite ease-in-out;
+        animation: change 15s  infinite ease-in-out;
     }
     nav{
         background-color: rgba(37, 34, 34,0.5);
@@ -373,7 +373,7 @@ cursor: pointer;
 
     @keyframes change{
         0%{
-          background: url(images/r.jpeg);
+          background: url(https://user-images.githubusercontent.com/99909801/189293524-5b6d4010-8985-4bdf-b808-4713e6bce2a8.jpg);
           background-size: cover;
           background-position: center;
         background-repeat: no-repeat;
@@ -382,35 +382,35 @@ cursor: pointer;
       
         }
         20%{
-          background: url(images/Screenshot_20200903-225930.png);
+          background: url(https://user-images.githubusercontent.com/99909801/189293732-e494cc5c-da3e-494e-9a88-1918f6144359.jpeg);
           background-size: cover;
           background-position: center;
           background-repeat: no-repeat;
           transition: 0.6s ease-in-out;
         }
         40%{
-          background: url(images/wallpaper8.jpg);
+          background: url(https://user-images.githubusercontent.com/99909801/189293854-b60f7528-087a-40d1-b1db-748d7d39a877.jpeg);
           background-size: cover;
           background-position: center;
           background-repeat: no-repeat;
           transition: 0.6s ease-in-out;
         }
         60%{
-          background: url(images/wallpaper2.jpg);
+          background: url(https://user-images.githubusercontent.com/99909801/189294130-dd128057-f6fa-4440-b466-fd19bdd8c9ea.jpg);
           background-size: cover;
           background-position: center;
           background-repeat: no-repeat;
           transition: 0.6s ease-in-out;
         }
         80%{
-          background: url(images/FB_IMG_16431787273330531.jpg);
+          background: url(https://user-images.githubusercontent.com/99909801/189294759-d5cac220-19fd-448f-b15c-bc8684044dca.jpg);
           background-size: cover;
           background-position: center;
           background-repeat: no-repeat;
           transition: 0.6s ease-in-out;
         }
         100%{
-          background: url(images/netflixbackground.jpg);
+          background: url(https://user-images.githubusercontent.com/99909801/189294501-fd99f296-5255-4c9c-aefb-71b3717eeab4.jpg);
           background-size: cover;
           background-position: center;
           background-repeat: no-repeat;
